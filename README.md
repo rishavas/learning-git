@@ -1,4 +1,4 @@
-# learning-git
+# Learning Git and Git-Hub
 
 ## this repo was added to learn git
 
